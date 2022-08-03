@@ -1,4 +1,4 @@
-# MARS Rover
+# Bechera
 
 This library provides a Microsoft Makecode extension for the 4tronix MARS Rover
 

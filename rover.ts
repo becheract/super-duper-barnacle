@@ -99,7 +99,7 @@ enum eUpdateMode
 enum eColors
 {
     //% block=red
-    Red = 0xff0000,
+    Test = 0xff1493,
     //% block=orange
     Orange = 0xffa500,
     //% block=yellow
